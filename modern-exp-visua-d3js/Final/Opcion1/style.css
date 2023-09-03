@@ -1,0 +1,13 @@
+rect.maximum_bar {
+    fill: rgb(238, 8, 8)
+}
+
+rect.rest_bar {
+    fill: rgb(64, 21, 219)
+}
+
+#chart {
+    width: 100%;
+    margin: 0 auto;
+}
+

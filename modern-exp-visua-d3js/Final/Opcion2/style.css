@@ -1,0 +1,10 @@
+.line {
+    fill: none;
+    stroke: rgb(42, 10, 228);
+    stroke-width: 3px;
+    margin-left: auto;
+}
+
+.bar {
+    fill: rgb(218, 24, 208);
+}
